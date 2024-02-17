@@ -1,4 +1,4 @@
-module link
+module github.com/Ayodejidara/html-link-parser
 
 go 1.20
 
