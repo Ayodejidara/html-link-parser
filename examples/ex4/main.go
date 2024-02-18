@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ayodejidara/html-link-parser"
+	"github.com/Ayodejidara/link"
 	"strings"
 )
 

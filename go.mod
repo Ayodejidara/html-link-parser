@@ -1,5 +1,5 @@
-module github.com/Ayodejidara/html-link-parser
+module github.com/Ayodejidara/link
 
 go 1.20
 
-require golang.org/x/net v0.21.0 // indirect
+require golang.org/x/net v0.21.0
